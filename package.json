@@ -1,0 +1,22 @@
+{
+  "name": "electron-shopping-list",
+  "version": "1.0.0",
+  "description": "Shopping list app made with electron",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj87/Electron-Shopping-List.git"
+  },
+  "author": "Neeraj Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj87/Electron-Shopping-List/issues"
+  },
+  "homepage": "https://github.com/neeraj87/Electron-Shopping-List#readme",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
